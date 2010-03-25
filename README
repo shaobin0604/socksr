@@ -1,0 +1,8 @@
+== socksr
+socksr is a simple socks server written in Ruby that implements the SOCKS v5 protocol.
+[http://tools.ietf.org/html/rfc1928]
+
+== usage
+ruby socksr.rb
+
+the socks server is running on default port 1080
